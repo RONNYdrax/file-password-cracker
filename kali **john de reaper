@@ -1,0 +1,16 @@
+open kali terminal
+as no internet is being used turn off internet connections
+get into super user mode
+enter the password
+ls
+for seeing list
+select list in which john he reaper is installed
+cd desktop
+ls
+clear
+zip2john filename.zip > filename.txt
+cat filename.txt
+john filename.txt
+///////////////////////
+now check the password generated
+
