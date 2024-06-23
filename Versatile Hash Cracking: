@@ -1,0 +1,2 @@
+Supports a wide range of hash types, including UNIX-based hashes (DES, MD5, Blowfish), Windows LM and NTLM hashes, and more.
+Extensible with additional hash formats through customizable formats and external scripts.
