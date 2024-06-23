@@ -1,0 +1,19 @@
+Versatile Hash Cracking:
+
+Supports a wide range of hash types, including UNIX-based hashes (DES, MD5, Blowfish), Windows LM and NTLM hashes, and more.
+Extensible with additional hash formats through customizable formats and external scripts.
+Efficient Cracking Techniques:
+
+Utilizes a combination of dictionary attacks, brute force attacks, and rainbow table attacks.
+Can employ hybrid attacks, which combine dictionary and brute force methods to enhance success rates.
+Customizable and Extensible:
+
+Users can modify configuration files to include custom wordlists, rules, and other settings.
+Extensible through plugins and community-contributed patches, enabling support for new hash types and additional functionality.
+Performance Optimization:
+
+Optimized for performance, taking advantage of multi-threading and GPU acceleration when available.
+Allows for distributed password cracking by splitting tasks across multiple machines.
+Comprehensive Reporting:
+
+Generates detailed reports of cracked passwords, helping security professionals assess and mitigate vulnerabilities effectively.
